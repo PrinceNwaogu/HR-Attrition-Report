@@ -31,7 +31,7 @@ The report is built using Power BI, incorporating interactive visualizations to 
 
 
 ## Analysis and Dashboards
-![HR Attrition Report 3](https://github.com/user-attachments/assets/56e60465-23f6-4f7e-89d9-3be51feb2dce)
+![HR Attrition HomePage](https://github.com/user-attachments/assets/2b05cb63-7dd3-4ea4-9f84-7b63033c1b85)
 
 ![HR Attrition Report1](https://github.com/user-attachments/assets/a0e943fd-9aa7-4392-b3e2-ed9f9f974be4)
 
